@@ -11,7 +11,7 @@ export default function HomeScreen() {
       {/* Header */}
       <Text style={styles.title}>🚀 SuperCool App</Text>
       <Text style={styles.subtitle}>
-        Welcome to my cool project
+        Welcome to my supercool project
       </Text>
 
       {/* Card */}
